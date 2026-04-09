@@ -14,5 +14,7 @@ int main(int argc , char *argv[]){
     }else{
         printf("%c", 'X');
     }
+
+    printf("Feito por PedroUlian (https://github.com/PedroUlian) (https://github.com/UlianAlt)");
     return 0;
 }
